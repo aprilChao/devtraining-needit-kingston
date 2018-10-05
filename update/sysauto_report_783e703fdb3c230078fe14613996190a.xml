@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sysauto_report">
     <sysauto_report action="INSERT_OR_UPDATE">
-        <active>false</active>
-        <address_list>april.chao@servicenow.com, chao.april01@gmail.com, april.chao2019@ba.genesysworks.org</address_list>
+        <active>true</active>
+        <address_list>chao.april01@gmail.com</address_list>
         <condition/>
         <conditional>false</conditional>
         <group_list/>
@@ -28,14 +28,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-10-03 21:34:03</sys_created_on>
         <sys_id>783e703fdb3c230078fe14613996190a</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_name>Scheduled execution of NeedIt Requests by Type</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sysauto_report_783e703fdb3c230078fe14613996190a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-10-03 21:36:45</sys_updated_on>
+        <sys_updated_on>2018-10-05 21:41:38</sys_updated_on>
         <upgrade_safe>false</upgrade_safe>
         <user_list/>
         <zip>false</zip>
